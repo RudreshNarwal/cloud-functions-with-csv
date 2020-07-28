@@ -1,0 +1,8 @@
+{
+  "firebase": {
+    "projectId": "toffee-agent",
+    "databaseURL": "https://toffee-agent.firebaseio.com",
+    "storageBucket": "toffee-agent.appspot.com",
+    "locationId": "asia-south1"
+  }
+}
